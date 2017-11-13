@@ -510,19 +510,6 @@
             </chc>
             <chc>
                 <rule-repo>fsharplint</rule-repo>
-                <rule-key>RulesXmlDocumentationExceptionError</rule-key>
-                <prop>
-                    <key>remediationFunction</key>
-                    <txt>constant_issue</txt>
-                </prop>
-                <prop>
-                    <key>offset</key>
-                    <val>5</val>
-                    <txt>mn</txt>
-                </prop>
-            </chc>
-            <chc>
-                <rule-repo>fsharplint</rule-repo>
                 <rule-key>RulesTupleOfWildcardsError</rule-key>
                 <prop>
                     <key>remediationFunction</key>

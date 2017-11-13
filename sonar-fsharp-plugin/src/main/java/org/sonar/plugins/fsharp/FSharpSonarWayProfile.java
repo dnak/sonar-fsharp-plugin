@@ -32,16 +32,7 @@ public class FSharpSonarWayProfile extends ProfileDefinition {
     activateRule(profile, "RulesTypographyTrailingWhitespaceError");
     activateRule(profile, "RulesNestedStatementsError");
     activateRule(profile, "RulesHintRefactor");
-    activateRule(profile, "RulesHintSuggestion");    
-    activateRule(profile, "RulesXmlDocumentationExceptionError");    
-    activateRule(profile, "RulesXmlDocumentationUnionError");
-    activateRule(profile, "RulesXmlDocumentationRecordError");
-    activateRule(profile, "RulesXmlDocumentationMemberError");
-    activateRule(profile, "RulesXmlDocumentationTypeError");    
-    activateRule(profile, "RulesXmlDocumentationAutoPropertyError");
-    activateRule(profile, "RulesXmlDocumentationEnumError");
-    activateRule(profile, "RulesXmlDocumentationModuleError");
-    activateRule(profile, "RulesXmlDocumentationLetError");
+    activateRule(profile, "RulesHintSuggestion");   
     activateRule(profile, "RulesNamingConventionsExceptionError");
     activateRule(profile, "RulesNamingConventionsCamelCaseError");
     activateRule(profile, "RulesNamingConventionsPascalCaseError");

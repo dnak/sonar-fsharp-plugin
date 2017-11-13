@@ -156,9 +156,6 @@
       <Key>RulesFavourIgnoreOverLetWildError</Key>
     </Rule>
     <Rule>
-      <Key>RulesXmlDocumentationExceptionError</Key>
-    </Rule>
-    <Rule>
       <Key>RulesReimplementsFunction</Key>
     </Rule>
     <Rule>
