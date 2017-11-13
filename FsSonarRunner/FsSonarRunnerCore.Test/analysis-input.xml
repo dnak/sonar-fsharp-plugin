@@ -23,9 +23,6 @@
       </Parameters>
     </Rule>
     <Rule>
-      <Key>RulesNamingConventionsCamelCaseError</Key>
-    </Rule>
-    <Rule>
       <Key>RulesHintRefactor</Key>
     </Rule>
     <Rule>
@@ -124,9 +121,6 @@
           <Value>5</Value>
         </Parameter>
       </Parameters>
-    </Rule>
-    <Rule>
-      <Key>RulesNamingConventionsPascalCaseError</Key>
     </Rule>
     <Rule>
       <Key>RulesNullArgWithSingleArgument</Key>

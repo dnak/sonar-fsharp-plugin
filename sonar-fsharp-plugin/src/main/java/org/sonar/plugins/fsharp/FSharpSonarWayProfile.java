@@ -34,8 +34,6 @@ public class FSharpSonarWayProfile extends ProfileDefinition {
     activateRule(profile, "RulesHintRefactor");
     activateRule(profile, "RulesHintSuggestion");   
     activateRule(profile, "RulesNamingConventionsExceptionError");
-    activateRule(profile, "RulesNamingConventionsCamelCaseError");
-    activateRule(profile, "RulesNamingConventionsPascalCaseError");
     activateRule(profile, "RulesNamingConventionsInterfaceError");
     activateRule(profile, "RulesRaiseWithSingleArgument");
     activateRule(profile, "RulesFailwithWithSingleArgument");
